@@ -7,7 +7,7 @@
  */
 
 //#################################### Bintray ####################################//
-if (project.rootProject.file('local.properties').exists()) {
+if (!project.rootProject.file('local.properties').exists()) {
     apply plugin: 'com.jfrog.bintray'
 
     version = "1.0.1"     // This is the library version used when deploying the artifact
@@ -20,7 +20,6 @@ if (project.rootProject.file('local.properties').exists()) {
     group = "com.kevalpatel2106"    //Group id
 
     install {
-
         repositories.mavenInstaller {
             pom {
                 project {

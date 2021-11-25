@@ -1,17 +1,12 @@
-<!--
-  ~ Copyright 2018 Keval Patel
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance wit
-  ~ the License. You may obtain a copy of the License at
-  ~
-  ~ http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an
-  ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for
-  ~  the specific language governing permissions and limitations under the License.
-  -->
-
 <resources>
     <string name="fingerprint_authentication_icon_content_description">Fingerprint authentication</string>
-    <string name="fingerprint_not_recognised">Not recognised.</string>
+    <string name="fingerprint_not_recognised">Not recognised</string>
+    <string name="title_warning">Title cannot be null. Call title() to set the title.</string>
+    <string name="subtitle_warning">Subtitle cannot be null. Call subtitle() to set the subtitle.</string>
+    <string name="description_warning">Description cannot be null. Call description() to set the description.</string>
+    <string name="description_error">Description cannot be null.</string>
+    <string name="title_error">Title cannot be null.</string>
+    <string name="subtitle_error">Subtitle cannot be null.</string>
+    <string name="button_title_error">Button title cannot be null.</string>
+    <string name="argument_error">No arguments found.</string>
 </resources>

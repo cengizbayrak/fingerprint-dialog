@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_authentication_icon_content_description">Parmak izi doğrulama</string>
+    <string name="fingerprint_not_recognised">Parmak izi tanınamadı</string>
+    <string name="title_warning">Başlık belirsiz olamaz. Başlığı belirtmek için \'title()\' yöntemini çağır.</string>
+    <string name="subtitle_warning">Alt başlık belirsiz olamaz. Alt başlığı belirtmek için \'subtitle()\' yöntemini çağır.</string>
+    <string name="description_warning">Açıklama belirsiz olamaz. Açıklamayı belirtmek için \'description()\' yöntemini çağır.</string>
+    <string name="description_error">Açıklama belirsiz olamaz.</string>
+    <string name="title_error">Başlık belirsiz olamaz.</string>
+    <string name="subtitle_error">Alt başlık belirsiz olamaz.</string>
+    <string name="button_title_error">Buton başlığı belirsiz olamaz.</string>
+    <string name="argument_error">Argüman bulunamadı.</string>
+</resources>
